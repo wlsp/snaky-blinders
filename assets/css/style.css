@@ -3,7 +3,7 @@
 }
 #snakeField {
   display: flex; flex-wrap: wrap;
-  width: 500px;  margin: 10% auto;
+  width: 500px;  margin: 3.5% auto;
   background-color: #fff !important;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
