@@ -1,7 +1,7 @@
 
 const randomColor = () => Math.floor(Math.random() * 355);
 let quote = document.createElement('h1');
-let quoteText = document.createTextNode('By order of the funking Snaky Blinders *sssss* *sssss*  *sssss*')
+let quoteText = document.createTextNode('By order of the funky Snaky Blinders *sssss* *sssss*  *sssss*')
 quote.appendChild(quoteText);
 snakeField.appendChild(quote);
 
